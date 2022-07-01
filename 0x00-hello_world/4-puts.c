@@ -1,11 +1,13 @@
 #include <stdio.h>
+
 /**
- * main - Main function
+ * main - Entry point
  *
- * Return: Always return 0       
+ * Return: 0 Always      
  */
+
 int main(void)
 {
 puts("Programming is like building a multilingual puzzle/n");
-retun(0);
+return (0);
 }
